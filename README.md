@@ -1,12 +1,12 @@
-## Machine-Learning
+# Machine-Learning
 
-# California House Prices Prediction Project
+## California House Prices Prediction Project
 
-## Overview
+### Overview
 
 This project is part of my Master's degree work, focusing on predicting California house prices using various machine learning algorithms. The dataset used for this project is derived from the California Census data. The goal is to implement, evaluate, and compare different machine learning models to predict housing prices accurately.
 
-## Project Structure
+### Project Structure
 
 - **data/**: Contains the dataset used for training and testing the models.
 - **notebooks/**: Jupyter notebooks showcasing the data exploration, preprocessing, model training, and evaluation.
