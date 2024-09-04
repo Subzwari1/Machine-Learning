@@ -8,7 +8,6 @@ This project is part of my Master's degree work, focusing on predicting house pr
 
 ### Project Structure
 
-- **notebooks/**: Jupyter notebooks showcasing the data exploration, preprocessing, model training, and evaluation.
 - **README.md**: Project overview and instructions.
 - **requirements.txt**: Python libraries and dependencies needed to run the project.
 
