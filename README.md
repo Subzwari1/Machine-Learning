@@ -47,8 +47,8 @@ This project explores the following machine learning algorithms:
 
 The performance of the models was evaluated based on their accuracy in predicting house prices. Here are the summarized results:
 
-   -Decision Tree Classifier (C4.5 and CART): Achieved a good balance between interpretability and performance.
+   -**Decision Tree Classifier (C4.5 and CART):** Achieved a good balance between interpretability and performance.
 
-   -Gaussian Naive Bayes: Performed well with a lower computational cost but slightly less accurate due to its assumptions.
+   -**Gaussian Naive Bayes:** Performed well with a lower computational cost but slightly less accurate due to its assumptions.
 
-   -Neural Network (MLP Classifier): Provided the highest accuracy but required more computational resources and careful tuning of hyperparameters.
+   -**Neural Network (MLP Classifier):** Provided the highest accuracy but required more computational resources and careful tuning of hyperparameters.
