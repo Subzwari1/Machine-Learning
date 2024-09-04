@@ -8,10 +8,7 @@ This project is part of my Master's degree work, focusing on predicting house pr
 
 ### Project Structure
 
-- **data**: Contains the dataset used for training and testing the models.
-- **notebooks**: Jupyter notebooks showcasing the data exploration, preprocessing, model training, and evaluation.
-- **src**: Python scripts for data preprocessing, model training, and evaluation.
-- **models**: Saved models for future use or further analysis.
+- **notebooks/**: Jupyter notebooks showcasing the data exploration, preprocessing, model training, and evaluation.
 - **README.md**: Project overview and instructions.
 - **requirements.txt**: Python libraries and dependencies needed to run the project.
 
